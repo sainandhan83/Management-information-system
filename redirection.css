@@ -1,0 +1,17 @@
+a{
+background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  left:50px;
+}
+body{
+background-image:url(jainimage.jpg);
+background-size:100% auto;
+font-family:Arial,Helvetica,sans-serief;
+background-repeat=no-repeat;
+
+}
